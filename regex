@@ -1,0 +1,3 @@
+Problem 1: Matching a decimal numbers
+
+^-?\d+(?:\.\d+)*(?:\,\d+\.\d+)*(?:e\d+)*$

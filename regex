@@ -1,3 +1,11 @@
 Problem 1: Matching a decimal numbers
 
 ^-?\d+(?:\.\d+)*(?:\,\d+\.\d+)*(?:e\d+)*$
+
+Problem 2: Matching phone numbers
+
+Capture Group
+\s?\(?(\d{3})\)?
+
+Full Phone Numbers
+^1?\s?\(?(\d{3})\)?[-\s]?\d{3}[-\s]?\d{4}

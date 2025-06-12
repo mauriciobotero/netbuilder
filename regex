@@ -9,3 +9,7 @@ Capture Group
 
 Full Phone Numbers
 ^1?\s?\(?(\d{3})\)?[-\s]?\d{3}[-\s]?\d{4}
+
+Problem 3: Matching emails
+
+^([\w.]+).*@.+$

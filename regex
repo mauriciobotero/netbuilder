@@ -14,6 +14,16 @@ Problem 3: Matching emails
 
 ^([\w.]+).*@.+$
 
+Problem 4: Matching HTML
+
+Capture Group
+(\w+)
+
+Problem 5: Matching specific filenames
+
+Capture Group
+^(\w+)\.(jpg|png|gif)$
+
 JAVASCRIPT REGEX QUESTIONS-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Question 1.1:
